@@ -15,4 +15,9 @@ pip install -r ./requirements.txt
 ./start.sh
 ```
 
+### CURL The API
+
+```bash
+ curl -X GET <address-here>
+```
 
